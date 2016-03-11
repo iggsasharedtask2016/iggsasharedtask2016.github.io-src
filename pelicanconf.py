@@ -12,6 +12,18 @@ TIMEZONE = 'Europe/Paris'
 THEME = '/home/ruppenho/Dev/Python/pelican-themes/pelican-bootstrap3-master'
 DEFAULT_LANG = u'en'
 
+
+# tell pelican where your custom.css file is in your content folder
+STATIC_PATHS = ['extras/custom.css']
+
+# tell pelican where it should copy that file to in your output folder
+EXTRA_PATH_METADATA = {
+'extras/custom.css': {'path': 'static/custom.css'}
+}
+
+# tell the pelican-bootstrap-3 theme where to find the custom.css file in your output folder
+CUSTOM_CSS = 'static/custom.css'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None

@@ -1,0 +1,3 @@
+[submodule "output"]
+	path = output
+	url = git@github.com:iggsasharedtask2016/iggsasharedtask2016.github.io.git

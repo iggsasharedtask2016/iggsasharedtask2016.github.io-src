@@ -33,14 +33,15 @@ AUTHOR_FEED_RSS = None
 TYPOGRIFY = True
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (
+	('IGGSA', 'https://sites.google.com/site/iggsahome/'),
+	('STEPS 2014','https://sites.google.com/site/iggsasharedtask/task-1'),
+	('Konvens2016', 'http://www.linguistics.rub.de/konvens16/'),
+	('Pelican', 'http://getpelican.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 

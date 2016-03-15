@@ -7,22 +7,24 @@ Author: Josef Ruppenhofer
 Summary: Potentially Useful Resources and Tools 
 Lang: en
 
+[TOC]
+
 If you are interested in our shared task, we would like to help you get started. 
 
 Here we provide a collection of resources and tools that you might find useful. We would be very grateful for any suggestions that you might have.
 
 
-## STEPS Evaluation Tool 
+### STEPS Evaluation Tool 
 
 The version for the 2016 iteration of the shared task will be made available soon.
 
-## Opinion Role Extraction Systems
+### Opinion Role Extraction Systems
 
 [Saarland University's lexicon-based system](https://github.com/miwieg/german-opinion-role-extractor)
 
-## Corpora and Lexicons
+### Corpora and Lexicons
 
-### German resources
+> German resources
 
 [SentiWS](http://asv.informatik.uni-leipzig.de/download/sentiws.html) - a Publicly Available German-language Resource for Sentiment Analysis
 
@@ -32,7 +34,7 @@ The version for the 2016 iteration of the shared task will be made available soo
 
 [GermaNet](www.sfs.uni-tuebingen.de/GermaNet/) - a WordNet-style resource for German
 
-### English resources
+> English resources
 
 There are also some English resources that you might use if you are interested in doing something using translation:
 
@@ -40,7 +42,7 @@ There are also some English resources that you might use if you are interested i
 
 [Subjectivity Lexicon](http://mpqa.cs.pitt.edu/lexicons/subj_lexicon/) - a widely used sentiment lexicon for English
 
-## Tools
+### Tools
 
 [Salto annotation tool, Salsa API](http://www.coli.uni-saarland.de/projects/salsa/page.php?id=software) - this tool was used to annotate the data
 

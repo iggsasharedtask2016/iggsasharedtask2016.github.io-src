@@ -26,6 +26,7 @@ The main differences to the first iteration will lie in the following areas:
 * The annnotation schema was revised to make the task more accessible. This involved excluding from consideration some linguistic aspects that we felt were too complex to solve as part of this shared task (e.g. sub-lexical analysis in compound words and dealing with so-called polar facts).
 * Training data will be available, consisting of an adjudicated version of the 2014 task's test data. Thus, unlike in 2014, participants will be able to employ supervised learning for system implementation. 
 
+![Annotation Example](http://iggsasharedtask2016.github.io/images/annoexample.png)
 
 We will provide more details soon. Please stay tuned!
 

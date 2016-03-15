@@ -12,9 +12,11 @@ TIMEZONE = 'Europe/Paris'
 THEME = '/home/ruppenho/Dev/Python/pelican-themes/pelican-bootstrap3-master'
 DEFAULT_LANG = u'en'
 
-
+MD_EXTENSIONS = (['toc'])
 # tell pelican where your custom.css file is in your content folder
 STATIC_PATHS = ['extras/custom.css']
+
+
 
 # tell pelican where it should copy that file to in your output folder
 EXTRA_PATH_METADATA = {
@@ -32,6 +34,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 TYPOGRIFY = True
 
+
+SUMMARY_MAX_LENGTH = None
 # Blogroll
 LINKS = (
 	('IGGSA', 'https://sites.google.com/site/iggsahome/'),

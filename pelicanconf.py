@@ -14,7 +14,7 @@ DEFAULT_LANG = u'en'
 
 MD_EXTENSIONS = (['toc'])
 # tell pelican where your custom.css file is in your content folder
-STATIC_PATHS = ['extras/custom.css']
+STATIC_PATHS = ['extras/custom.css', 'data']
 
 
 

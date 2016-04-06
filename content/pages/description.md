@@ -30,7 +30,7 @@ Sources, Targets, and SubjectiveExpressions. These are inter-related by way of a
 
 ![Annotation Example](http://iggsasharedtask2016.github.io/images/annoexample.png)
 
-The annotations represent an adjudicated version of the 2014 test data. The guidelines will be linked here shortly.
+The annotations represent an adjudicated version of the 2014 test data. The guidelines can be downloaded [here](http://iggsasharedtask2016.github.io/data/guide_2016.pdf).
 
 Note that participating groups can use additional suitable training data as well as any kind of additional tools such as parsers etc. to develop their own systems.
 

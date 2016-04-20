@@ -18,7 +18,8 @@ The data that we use comes from German-language speeches of the Swiss parliament
 
 In selecting the data we took steps to minimize, or at least, mark any Swiss German idiosyncrasies. The selected speeches cover several different topics (foreign policy, book price controls, ...) so as to give better coverage of the variety of ways in which sources and targets might be expressed.
 
-Training data will be release as per the schedule below.
+The training data is now available for [download](http://iggsasharedtask2016.github.io/data/shata14_adjudicated.xml).<br/>
+We also provide a [preprocessed version](http://iggsasharedtask2016.github.io/data/shata14_adjudicated_preprocessed.tgz) of this data.
 
 
 ### Annotations

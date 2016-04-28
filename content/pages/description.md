@@ -10,6 +10,7 @@ Lang: en
 [TOC]
 
 ### Data
+
 The data that we use comes from German-language speeches of the Swiss parliament (Bundesversammlung). It was chosen because
 
    * the source data is open to the public and allows for free distribution with the annotations
@@ -43,6 +44,11 @@ We offer three subtasks:
     * Full task Identification of subjective expressions with their respective sources and targets
     * Subtask a) Participants are given the subjective expressions and are only asked to identify opinion sources.
     * Subtask b) Participants are given the subjective expressions and are only asked to identify opinion targets.
+
+
+### Scorer
+
+The evaluation tool for the Shared Task is available for [download](http://iggsasharedtask2016.github.io/data/IGGSA-STEPS_eval2016.jar) as a Java runnable jar file. <br/> Documentation for the tool is provided [here](http://iggsasharedtask2016.github.io/data/Readme_runnablejar.txt). 
 
 ### Formats
 

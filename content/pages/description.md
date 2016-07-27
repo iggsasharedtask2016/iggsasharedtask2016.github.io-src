@@ -22,13 +22,18 @@ In selecting the data we took steps to minimize, or at least, mark any Swiss Ger
 The training data is now available for [download](http://iggsasharedtask2016.github.io/data/shata14_adjudicated.xml).<br/>
 We also provide a [preprocessed version](http://iggsasharedtask2016.github.io/data/shata14_adjudicated_preproc.tgz) of this data.
 
+The **<span style="color:red">test data</span>** for the shared task is now also available for download. <br/>
+We provide two files. In the file for the [full task](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.UTF8.keineAnnotation.xml),  no gold information is provided.<br/>
+In the file for the [subtasks](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.UTF8.ohneFEs.xml), we have pre-identified the subjective expressions.<br/>
+
+Note that an updated version of the Scorer was released along with the data. The companion Readme was also updated.
+The links below in the Scorer section already point to the newest versions of these files.
 
 ### Annotations
 
 
 Matching the general task we try to solve, the annotation scheme consists of three major types of labels:
 Sources, Targets, and SubjectiveExpressions. These are inter-related by way of annotation frames that are centered on the Subjective Expressions. In addition, the three label types allow for several kinds of additional markings (flags), which indicate additional attributes of the labels.
-
 
 ![Annotation Example](http://iggsasharedtask2016.github.io/images/annoexample.png)
 
@@ -48,7 +53,10 @@ We offer three subtasks:
 
 ### Scorer
 
-The evaluation tool for the Shared Task is available for [download](http://iggsasharedtask2016.github.io/data/IGGSA-STEPS_eval2016.jar) as a Java runnable jar file. <br/> Documentation for the tool is provided [here](http://iggsasharedtask2016.github.io/data/Readme_runnablejar.txt). 
+The evaluation tool for the Shared Task is available for [download](http://iggsasharedtask2016.github.io/data/IGGSA-STEPS_eval2016.jar) as a Java runnable jar file. <br/> Documentation for the tool is provided [here](http://iggsasharedtask2016.github.io/data/Readme_runnablejar.txt). <br/>
+
+
+
 
 ### Formats
 

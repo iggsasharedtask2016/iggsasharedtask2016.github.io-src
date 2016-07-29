@@ -173,6 +173,9 @@
 				<action type="save" user="ruppenho" date="2016-03-09" time="13:21">
 					<step>Annotation</step>
 				</action>
+				<action type="save" user="michael" date="2016-07-28" time="11:26"/>
+				<action type="save" user="michael" date="2016-07-28" time="11:31"/>
+				<action type="save" user="michael" date="2016-07-28" time="11:33"/>
 			</history>
 			<format>NeGra format, version 3</format>
 		</meta>
@@ -958,7 +961,7 @@
 							<fenode idref="s2_26"/>
 						</target>
 						<fe name="Source" id="s2_f1_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s2_f1_e2">
@@ -3531,7 +3534,7 @@
 						<target>
 							<fenode idref="s11_30"/>
 						</target>
-						<fe name="Target" id="s11_f2_e1">
+						<fe name="Source" id="s11_f2_e2">
 							<flag name="Sprecher">
 							</flag>
 						</fe>
@@ -12251,9 +12254,9 @@
 							<fenode idref="s41_2"/>
 						</target>
 						<fe name="Source" id="s41_f1a1_e1">
-							<flag name="Inferiert">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 						<fe name="Target" id="s41_f1a1_e2">
@@ -13293,9 +13296,9 @@
 							<fenode idref="s46_12"/>
 						</target>
 						<fe name="Source" id="s46_f1a1_e1">
-							<flag name="Inferiert">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 						<fe name="Target" id="s46_f1a1_e2">
@@ -13611,7 +13614,7 @@
 							<fenode idref="s47_14"/>
 						</target>
 						<fe name="Source" id="s47_f2a1_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s47_f2a1_e2">
@@ -14011,7 +14014,7 @@
 							<fenode idref="s49_2"/>
 						</target>
 						<fe name="Source" id="s49_f1a1_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s49_f1a1_e2">
@@ -29100,7 +29103,7 @@
 							<fenode idref="s118_2"/>
 						</target>
 						<fe name="Source" id="s118_f1yya3_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s118_f1yya3_e2">
@@ -29347,7 +29350,7 @@
 							<fenode idref="s120_503"/>
 						</fe>
 						<fe name="Source" id="s120_f2yyyya3_e2">
-							<flag name="Unsicher">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 					</frame>
@@ -30027,7 +30030,7 @@
 							<fenode idref="s125_504"/>
 						</fe>
 						<fe name="Source" id="s125_f1yya3_e2">
-							<flag name="Unsicher">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 					</frame>
@@ -36172,9 +36175,9 @@
 						</target>
 						<fe name="Source" id="s166_f2_e1">
 							<fenode idref="s166_19"/>
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s166_f2_e2">
@@ -36187,9 +36190,9 @@
 						</target>
 						<fe name="Source" id="s166_f3_e1">
 							<fenode idref="s166_19"/>
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s166_f3_e2">
@@ -37466,9 +37469,9 @@
 						</target>
 						<fe name="Source" id="s175_f4yyyyyyyyyyyyyyyya3_e1">
 							<fenode idref="s175_1"/>
-							<flag name="Inferiert">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 						<fe name="Target" id="s175_f4yyyyyyyyyyyyyyyya3_e2">
@@ -46841,9 +46844,9 @@
 							<fenode idref="s220_14"/>
 						</target>
 						<fe name="Source" id="s220_f4a1_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s220_f4a1_e2">
@@ -47363,9 +47366,9 @@
 							<fenode idref="s223_14"/>
 						</target>
 						<fe name="Source" id="s223_f3_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s223_f3_e2">
@@ -47893,9 +47896,9 @@
 							<fenode idref="s226_20"/>
 						</target>
 						<fe name="Source" id="s226_f3_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s226_f3_e2">
@@ -48980,9 +48983,9 @@
 							<fenode idref="s231_29"/>
 						</target>
 						<fe name="Source" id="s231_f2_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s231_f2_e2">
@@ -51969,9 +51972,9 @@
 							<fenode idref="s247_2"/>
 						</target>
 						<fe name="Source" id="s247_f1_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 					</frame>
@@ -58199,9 +58202,9 @@
 						</target>
 						<fe name="Source" id="s278_f2yyyya3_e1">
 							<fenode idref="s278_3"/>
-							<flag name="Inferiert">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 						<fe name="Target" id="s278_f2yyyya3_e2">
@@ -58829,9 +58832,9 @@
 						</target>
 						<fe name="Source" id="s280_f1yya3_e1">
 							<fenode idref="s280_7"/>
-							<flag name="Inferiert">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 						<fe name="Target" id="s280_f1yya3_e2">
@@ -59576,7 +59579,7 @@
 							<fenode idref="s283_19"/>
 						</target>
 						<fe name="Source" id="s283_f4_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s283_f4_e2">
@@ -61246,9 +61249,7 @@
 							<fenode idref="s294_16"/>
 						</target>
 						<fe name="Source" id="s294_f3xxxxa2_e1">
-							<flag name="Unsicher">
-							</flag>
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s294_f3xxxxa2_e2">
@@ -65361,9 +65362,7 @@
 						</target>
 						<fe name="Source" id="s322_f2_e1">
 							<fenode idref="s322_1"/>
-						</fe>
-						<fe name="Target" id="s322_f2_e2">
-							<flag name="Sprecher">
+							<flag name="Inferiert">
 							</flag>
 						</fe>
 					</frame>
@@ -65935,11 +65934,11 @@
 						</target>
 						<fe name="Source" id="s327_f3a1_e1">
 							<fenode idref="s327_502"/>
+							<flag name="Sprecher">
+							</flag>
 							<flag name="Unsicher">
 							</flag>
 							<flag name="Inferiert">
-							</flag>
-							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s327_f3a1_e2">
@@ -66640,9 +66639,9 @@
 							<fenode idref="s332_4"/>
 						</target>
 						<fe name="Source" id="s332_f1yya3_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s332_f1yya3_e2">
@@ -66866,9 +66865,9 @@
 							<fenode idref="s334_5"/>
 						</target>
 						<fe name="Source" id="s334_f2a1_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s334_f2a1_e2">
@@ -67549,9 +67548,9 @@
 							<fenode idref="s340_2"/>
 						</target>
 						<fe name="Source" id="s340_f5a1_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s340_f5a1_e2">
@@ -67565,9 +67564,9 @@
 							<fenode idref="s340_2"/>
 						</target>
 						<fe name="Source" id="s340_f1yya3_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s340_f1yya3_e2">
@@ -68067,9 +68066,9 @@
 							<fenode idref="s344_19"/>
 						</target>
 						<fe name="Source" id="s344_f5xxxxa2_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s344_f5xxxxa2_e2">
@@ -68083,9 +68082,9 @@
 							<fenode idref="s344_19"/>
 						</target>
 						<fe name="Source" id="s344_f6a1_e1">
-							<flag name="Unsicher">
-							</flag>
 							<flag name="Sprecher">
+							</flag>
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s344_f6a1_e2">
@@ -68948,7 +68947,7 @@
 							<fenode idref="s348_41"/>
 						</target>
 						<fe name="Source" id="s348_f3_e1">
-							<flag name="Unsicher">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<flag name="Unsicher">
@@ -69300,7 +69299,7 @@
 							<fenode idref="s351_8"/>
 						</target>
 						<fe name="Source" id="s351_f1_e1">
-							<flag name="Unsicher">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s351_f1_e2">
@@ -71984,7 +71983,7 @@
 							<fenode idref="s368_505"/>
 						</target>
 						<fe name="Source" id="s368_f1_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s368_f1_e2">
@@ -73908,9 +73907,9 @@
 							<fenode idref="s382_4"/>
 						</target>
 						<fe name="Source" id="s382_f2xxxxa2_e1">
-							<flag name="Unsicher">
+							<flag name="Sprecher">
 							</flag>
-							<flag name="Inferiert">
+							<flag name="Unsicher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s382_f2xxxxa2_e2">
@@ -76801,7 +76800,7 @@
 							<fenode idref="s402_7"/>
 						</target>
 						<fe name="Source" id="s402_f2xxxxa2_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s402_f2xxxxa2_e2">
@@ -80127,12 +80126,7 @@
 							</flag>
 						</fe>
 						<fe name="Target" id="s427_f2xxxxa2_e2">
-							<fenode idref="s427_504"/>
-							<fenode idref="s427_8"/>
-							<fenode idref="s427_3"/>
-							<fenode idref="s427_2"/>
-							<fenode idref="s427_1"/>
-							<fenode idref="s427_9"/>
+							<fenode idref="s427_502"/>
 						</fe>
 					</frame>
 					<frame name="SubjectiveExpression" id="s427_f1">
@@ -80382,10 +80376,6 @@
 						</target>
 						<fe name="Source" id="s429_f2yyyya3_e1">
 							<fenode idref="s429_5"/>
-							<flag name="Inferiert">
-							</flag>
-						</fe>
-						<fe name="Target" id="s429_f2yyyya3_e2">
 							<flag name="Inferiert">
 							</flag>
 						</fe>
@@ -84032,10 +84022,7 @@
 							</flag>
 						</fe>
 						<fe name="Target" id="s461_f1xxa2_e2">
-							<fenode idref="s461_21"/>
-							<fenode idref="s461_513"/>
-							<fenode idref="s461_23"/>
-							<fenode idref="s461_22"/>
+							<fenode idref="s461_512"/>
 						</fe>
 					</frame>
 					<frame name="SubjectiveExpression" id="s461_f1">
@@ -84296,7 +84283,7 @@
 						<target>
 							<fenode idref="s463_7"/>
 						</target>
-						<fe name="Target" id="s463_f2_e2">
+						<fe name="Target" id="s463_f2_e1">
 							<fenode idref="s463_504"/>
 						</fe>
 					</frame>
@@ -85649,7 +85636,7 @@
 						<target>
 							<fenode idref="s474_7"/>
 						</target>
-						<fe name="Target" id="s474_f2_e2">
+						<fe name="Target" id="s474_f2_e1">
 							<fenode idref="s474_8"/>
 						</fe>
 					</frame>
@@ -86855,11 +86842,7 @@
 							<fenode idref="s483_2"/>
 						</target>
 						<fe name="Target" id="s483_f1xxa2_e1">
-							<fenode idref="s483_503"/>
-							<fenode idref="s483_1"/>
-							<fenode idref="s483_505"/>
-							<fenode idref="s483_6"/>
-							<fenode idref="s483_2"/>
+							<fenode idref="s483_501"/>
 						</fe>
 						<fe name="Source" id="s483_f1xxa2_e2">
 							<flag name="Sprecher">
@@ -87298,10 +87281,6 @@
 						</target>
 						<fe name="Source" id="s486_f3xxxxxxxxa2_e1">
 							<fenode idref="s486_511"/>
-						</fe>
-						<fe name="Target" id="s486_f3xxxxxxxxa2_e2">
-							<flag name="Inferiert">
-							</flag>
 						</fe>
 					</frame>
 					<frame name="SubjectiveExpression" id="s486_f1yya3">
@@ -99035,7 +99014,7 @@
 							<fenode idref="s575_2"/>
 						</target>
 						<fe name="Source" id="s575_f1yya3_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s575_f1yya3_e2">
@@ -99426,7 +99405,7 @@
 							<fenode idref="s578_23"/>
 						</target>
 						<fe name="Source" id="s578_f7yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyya3_e1">
-							<flag name="Inferiert">
+							<flag name="Sprecher">
 							</flag>
 						</fe>
 						<fe name="Target" id="s578_f7yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyya3_e2">

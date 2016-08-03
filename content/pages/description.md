@@ -26,9 +26,10 @@ We also provide a [preprocessed version](http://iggsasharedtask2016.github.io/da
 The **<span style="color:red">test data</span>** for the shared task is now also available for download. <br/>
 We provide two files. In the file for the [full task](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.UTF8.keineAnnotation.xml),  no gold information is provided.<br/>
 In the file for the [subtasks](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.UTF8.ohneFEs.xml), we have pre-identified the subjective expressions.<br/>
+We also provide a [preprocessed version](http://iggsasharedtask2016.github.io/data/shata_2016_test_preprocessed.zip) of this data. 
 
-Note that an updated version of the Scorer was released along with the data. The companion Readme was also updated.
-The links below in the Scorer section already point to the newest versions of these files.
+
+Note that an updated version of the Scorer was released along with the data. The companion Readme was also updated. The links below in the Scorer section already point to the newest versions of these files.
 
 ### Annotations
 
@@ -93,17 +94,17 @@ For your convenience, *all* data from this Maintask has been preprocessed with t
   </tr>
 <tr>
   <tr>
-    <td>Start of August</td>
+    <td>August, 1st</td>
     <td></td>
     <td>Release of test data</td>
   </tr>
 <tr>
-    <td>Middle of August</td>
+    <td>August, 15th</td>
     <td></td>
     <td>System runs submitted</td>
   </tr>
 <tr>
-    <td>End of August</td>
+    <td>August,31st</td>
     <td></td>
     <td>Notification of results</td>
   </tr>

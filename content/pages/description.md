@@ -28,8 +28,10 @@ We provide two files. In the file for the [full task](http://iggsasharedtask2016
 In the file for the [subtasks](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.UTF8.ohneFEs.xml), we have pre-identified the subjective expressions.<br/>
 We also provide a [preprocessed version](http://iggsasharedtask2016.github.io/data/shata_2016_test_preprocessed.zip) of this data. 
 
+<!--Note that an updated version of the Scorer was released along with the data. The companion Readme was also updated. The links below in the Scorer section already point to the newest versions of these files.-->
 
-Note that an updated version of the Scorer was released along with the data. The companion Readme was also updated. The links below in the Scorer section already point to the newest versions of these files.
+Now that the task has run the **<span style="color:red">gold data</span>** for the shared task is available for [download](http://iggsasharedtask2016.github.io/data/steps2016-testdaten.gold.zip).</br>
+
 
 ### Annotations
 
